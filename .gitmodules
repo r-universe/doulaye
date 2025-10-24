@@ -8,6 +8,3 @@
 [submodule "madsim"]
 	path = madsim
 	url = https://github.com/cran/madsim
-[submodule "psvd"]
-	path = psvd
-	url = https://github.com/cran/psvd
